@@ -34,5 +34,5 @@ $$
 ### Table
 
 
-![Screenshot_2019-12-20_16-09-30](/home/niflheimr/Documents/SC19/SST/sc20-training/Screenshot_2019-12-20_16-09-30.png)
+![images](https://github.com/NTHU-SC/SST/blob/main/sc20-training/Screenshot_2019-12-20_16-09-30.png)
 
